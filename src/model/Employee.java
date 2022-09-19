@@ -1,3 +1,5 @@
+package model;
+
 public class Employee extends Person {
     float salary;
     String workingTime;

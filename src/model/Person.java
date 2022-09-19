@@ -1,7 +1,8 @@
-public abstract class Person {
+package model;
+
+public class Person {
     final int id;
     String name, phone, gender;
-
     private static int idIncrementer = 0;
 
     void printPersonInfo() {

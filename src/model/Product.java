@@ -1,3 +1,5 @@
+package model;
+
 public class Product {
     final int id;
     String name;
